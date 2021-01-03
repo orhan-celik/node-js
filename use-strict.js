@@ -1,3 +1,5 @@
+// "use strict";
+
 /* değişkenin başına var deyimini koymadık fakat program çalışıyor. */
 data = 2;
 console.log(data);
