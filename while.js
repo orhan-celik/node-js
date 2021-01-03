@@ -1,3 +1,5 @@
+// while döngüsü
+
 var i = 1;
 
 while (i<=4){

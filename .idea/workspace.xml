@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d26048e5-18c0-4548-9e24-0a86e90efc7f" name="Default Changelist" comment="Scope Kavramı">
-      <change afterPath="$PROJECT_DIR$/diziler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/do-while.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hata-yonetimi-try-catch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nesneler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/use-strict.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diziler.js" beforeDir="false" afterPath="$PROJECT_DIR$/diziler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/do-while.js" beforeDir="false" afterPath="$PROJECT_DIR$/do-while.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/for.js" beforeDir="false" afterPath="$PROJECT_DIR$/for.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hata-yonetimi-try-catch.js" beforeDir="false" afterPath="$PROJECT_DIR$/hata-yonetimi-try-catch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nesneler.js" beforeDir="false" afterPath="$PROJECT_DIR$/nesneler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/use-strict.js" beforeDir="false" afterPath="$PROJECT_DIR$/use-strict.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while.js" beforeDir="false" afterPath="$PROJECT_DIR$/while.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609666964777</updated>
-      <workItem from="1609666966249" duration="9515000" />
+      <workItem from="1609666966249" duration="9947000" />
     </task>
     <task id="LOCAL-00001" summary="hello application">
       <created>1609667150806</created>
@@ -108,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609673200834</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Scope Kavramı">
+      <created>1609676713974</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609676713974</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

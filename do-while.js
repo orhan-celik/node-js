@@ -1,3 +1,5 @@
+// do-while döngüsü
+
 var i = 1;
 
 do{
