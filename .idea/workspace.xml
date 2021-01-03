@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d26048e5-18c0-4548-9e24-0a86e90efc7f" name="Default Changelist" comment="hello application">
-      <change afterPath="$PROJECT_DIR$/.idea/node.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d26048e5-18c0-4548-9e24-0a86e90efc7f" name="Default Changelist" comment="hello application on for{}">
+      <change afterPath="$PROJECT_DIR$/basic-functions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609666964777</updated>
-      <workItem from="1609666966249" duration="693000" />
+      <workItem from="1609666966249" duration="2011000" />
     </task>
     <task id="LOCAL-00001" summary="hello application">
       <created>1609667150806</created>
@@ -80,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609667682026</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hello application">
+      <created>1609667754050</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609667754050</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hello application on for{}">
+      <created>1609667918254</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609667918254</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello application" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello application" />
+    <MESSAGE value="hello application on for{}" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello application on for{}" />
   </component>
 </project>
