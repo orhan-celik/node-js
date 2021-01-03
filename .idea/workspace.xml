@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d26048e5-18c0-4548-9e24-0a86e90efc7f" name="Default Changelist" comment="Scope Kavramı">
+    <list default="true" id="d26048e5-18c0-4548-9e24-0a86e90efc7f" name="Default Changelist" comment="&quot;use strict&quot; deyimi">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es6/arrow-fnc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es6/async-await.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es6/degiskenler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es6/destructing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es6/promise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es6/spread.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es6/template-literal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diziler.js" beforeDir="false" afterPath="$PROJECT_DIR$/diziler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/do-while.js" beforeDir="false" afterPath="$PROJECT_DIR$/do-while.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for.js" beforeDir="false" afterPath="$PROJECT_DIR$/for.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hata-yonetimi-try-catch.js" beforeDir="false" afterPath="$PROJECT_DIR$/hata-yonetimi-try-catch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nesneler.js" beforeDir="false" afterPath="$PROJECT_DIR$/nesneler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/use-strict.js" beforeDir="false" afterPath="$PROJECT_DIR$/use-strict.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/while.js" beforeDir="false" afterPath="$PROJECT_DIR$/while.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609666964777</updated>
-      <workItem from="1609666966249" duration="9947000" />
+      <workItem from="1609666966249" duration="18405000" />
     </task>
     <task id="LOCAL-00001" summary="hello application">
       <created>1609667150806</created>
@@ -115,7 +117,42 @@
       <option name="project" value="LOCAL" />
       <updated>1609676713974</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Döngüler">
+      <created>1609677208425</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609677208425</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Diziler - Array">
+      <created>1609677245797</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609677245797</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Hata Yönetimi try-catch">
+      <created>1609677270278</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609677270278</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Nesneler - Objeler">
+      <created>1609677289271</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1609677289271</updated>
+    </task>
+    <task id="LOCAL-00013" summary="&quot;use strict&quot; deyimi">
+      <created>1609677308702</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1609677308702</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +185,15 @@
     <MESSAGE value="hello application" />
     <MESSAGE value="hello application on for{}" />
     <MESSAGE value="Scope Kavramı" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scope Kavramı" />
+    <MESSAGE value="Döngüler" />
+    <MESSAGE value="Diziler - Array" />
+    <MESSAGE value="Hata Yönetimi try-catch" />
+    <MESSAGE value="Nesneler - Objeler" />
+    <MESSAGE value="&quot;use strict&quot; deyimi" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;use strict&quot; deyimi" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
