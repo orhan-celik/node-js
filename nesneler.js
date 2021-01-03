@@ -1,3 +1,5 @@
+// nesneler
+
 var arac = {
     "marka" : "Renault",
     "model" : "Fluance",
