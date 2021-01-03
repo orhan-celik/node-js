@@ -1,3 +1,5 @@
+// diziler
+
 var arac = [{
                 "marka" : "Renault",
                 "model" : "Fluance",
