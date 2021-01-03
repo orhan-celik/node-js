@@ -1,3 +1,4 @@
 var data = "Hello World...";
+    number = 10;
 
-console.log(data);
+console.log(data+number);
