@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d26048e5-18c0-4548-9e24-0a86e90efc7f" name="Default Changelist" comment="&quot;use strict&quot; deyimi">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es6/arrow-fnc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es6/async-await.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es6/degiskenler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es6/destructing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es6/promise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es6/spread.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es6/template-literal.js" afterDir="false" />
+    <list default="true" id="d26048e5-18c0-4548-9e24-0a86e90efc7f" name="Default Changelist" comment="module.exports &quot;call helpers on this index.js with required&quot;">
+      <change afterPath="$PROJECT_DIR$/io/dosya-islemleri.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/event-emitter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/filename-dirname.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +54,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609666964777</updated>
-      <workItem from="1609666966249" duration="18405000" />
+      <workItem from="1609666966249" duration="20762000" />
+      <workItem from="1609955493270" duration="2872000" />
     </task>
     <task id="LOCAL-00001" summary="hello application">
       <created>1609667150806</created>
@@ -152,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609677308702</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="es-6">
+      <created>1609691526708</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1609691526708</updated>
+    </task>
+    <task id="LOCAL-00015" summary="module.exports &quot;call helpers on this index.js with required&quot;">
+      <created>1609693182879</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1609693182879</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +190,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello application" />
@@ -190,7 +201,9 @@
     <MESSAGE value="Hata Yönetimi try-catch" />
     <MESSAGE value="Nesneler - Objeler" />
     <MESSAGE value="&quot;use strict&quot; deyimi" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;use strict&quot; deyimi" />
+    <MESSAGE value="es-6" />
+    <MESSAGE value="module.exports &quot;call helpers on this index.js with required&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="module.exports &quot;call helpers on this index.js with required&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
